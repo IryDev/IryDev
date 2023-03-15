@@ -1,7 +1,8 @@
 ![mario-coding](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)
 <h1 align="center">Hello there 👋🏿, I'm IryCode</h1>
 
-##  ```A Web Developer Wannabe```
+##  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=30&duration=4000&pause=1000&center=true&width=435&lines=A+Web+Developer+Wannabe)](https://git.io/typing-svg)
+
 
 <p><img align="right" width=350
         src="https://www.gifcen.com/wp-content/uploads/2022/08/mario-gif-4.gif"
