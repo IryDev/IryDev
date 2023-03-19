@@ -1,7 +1,7 @@
 ![mario-coding](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)
 <h1 align="center">Hello there 👋🏿, I'm IryCode</h1>
 
-##  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=30&duration=4000&pause=1000&color=FFFFFF&center=true&width=435&lines=A+Web+Developer+Wannabe)](Readme.md)
+##  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=30&duration=4000&pause=1000&color=FFFFFF&center=true&width=435&lines=A+Web+Developer+Wannabe)](https://github.com/IryCode)
 
 
 <p><img align="right" width=350
