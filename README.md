@@ -23,7 +23,6 @@ If you want to check my CV go at https://irycode.github.io/CV/
 
 📫 Email : **ryvernet@outlook.fr**
  <p>
- <a href="https://twitter.com/irycode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="irycode" height="70" width="80" /></a>
 <a href="https://instagram.com/irycode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="irycode" height="70" width="80" /></a>
         <a href="https://discord.gg/irycode#7993" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="irycode#7993" height="70" width="80" /></a>
   
