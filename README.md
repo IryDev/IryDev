@@ -38,15 +38,15 @@ If you want to check my CV go at https://irycode.github.io/CV/
 
 <p align="center">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70"/></a> 
+<img src="https://user-images.githubusercontent.com/86270481/230437915-fa194820-865a-429e-8488-193d122aecf1.svg" alt="html5" width="70" height="70"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="70"/></a>
+<img src="https://user-images.githubusercontent.com/86270481/230437726-023c3a4d-04ba-4f05-a63a-682a040c99b0.svg" alt="css3" width="70" height="70"/></a>      
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70"/></a>
+<img src="https://user-images.githubusercontent.com/86270481/230436764-e7f84d49-6d55-4e10-93b9-e7002a82a009.svg" alt="javascript" width="70" height="70"/></a>
         <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70" height="70"/></a>
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="70" height="70"/></a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="70" height="70"/></a>
+<img src="https://user-images.githubusercontent.com/86270481/230437046-094c1fe8-b0fd-4ba6-93c3-3898389cf8b2.svg" alt="python" width="70" height="70"/></a>  
+<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/86270481/230434650-b80ff7a9-8904-466a-86ab-8b4486a06ec5.svg" alt="csharp" width="70" height="70"/></a>
+        <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/86270481/230434264-25472216-5c78-4494-b7c8-d876bbcac32d.svg" alt="cplusplus" width="70" height="70"/></a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="70" height="70"/></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
