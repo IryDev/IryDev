@@ -60,11 +60,10 @@ If you want to check my CV go at https://irycode.github.io/CV/
 <h2> <img src="https://user-images.githubusercontent.com/86270481/225368627-ec7fabbe-0141-4a65-b0fc-6a6b33d6c856.gif" width="30"> Projects</h2>
 
 <p align="center"> 
-
-<img width="300" alt="irycode pespi pepsi-website irycode" src="https://user-images.githubusercontent.com/86270481/217639234-8b2162cd-65f4-4db1-a216-8aa641439179.png">
-<a href="https://github.com/IryCode/chatspace"><img width="300" alt="tinder irycode chatspace tinder-website irycode" src="https://user-images.githubusercontent.com/86270481/217658651-dbf26e01-856d-4bf8-9676-3bd63ab4dd4a.png"></a>
+<img width="300" alt="irycode pespi pepsi-website irycode" src="https://user-images.githubusercontent.com/86270481/230439721-2e39721f-f899-41db-a004-a569a6ab5721.png">
+<a href="https://github.com/IryCode/chatspace"><img width="300" alt="tinder irycode chatspace tinder-website irycode" src="https://user-images.githubusercontent.com/86270481/230439443-d94f43a2-fe3b-4a65-a70f-72bc7c9912d6.png"></a>
 <img width="300" alt="space nasa space-tourism irycode" src="https://user-images.githubusercontent.com/86270481/214530959-d6a99abf-4830-480a-a896-c6b2eab4fe01.png">
-<a href="https://github.com/IryCode/netflix-squidgame"><img width="300" alt="squid game netflix irycode" src="https://user-images.githubusercontent.com/86270481/217652249-afb9597b-d79a-41f6-964c-1e541718b30c.png"></a>
+<a href="https://github.com/IryCode/netflix-squidgame"><img width="300" alt="squid game netflix irycode" src="https://user-images.githubusercontent.com/86270481/230440124-a449f1f2-bb1d-4a01-b176-7b3bb691755b.png"></a>
         <img width="300" alt="tindog boostrap tinder irycode" src="https://user-images.githubusercontent.com/86270481/217653133-5cc1ce9b-2ae9-449c-95a2-fed019a72aaf.png">
         <img width="300" alt="irycode" src="https://user-images.githubusercontent.com/86270481/217653637-48f6fd0c-1e15-4722-b861-a3b05c92a0c6.png">
 </p>
