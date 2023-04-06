@@ -43,8 +43,8 @@ If you want to check my CV go at https://irycode.github.io/CV/
 <img src="https://user-images.githubusercontent.com/86270481/230436764-e7f84d49-6d55-4e10-93b9-e7002a82a009.svg" alt="javascript" width="70" height="70"/></a>
         <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
 <img src="https://user-images.githubusercontent.com/86270481/230437046-094c1fe8-b0fd-4ba6-93c3-3898389cf8b2.svg" alt="python" width="70" height="70"/></a>  
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/86270481/230434650-b80ff7a9-8904-466a-86ab-8b4486a06ec5.svg" alt="csharp" width="70" height="70"/></a>
-        <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/86270481/230434264-25472216-5c78-4494-b7c8-d876bbcac32d.svg" alt="cplusplus" width="70" height="70"/></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/86270481/230434650-b80ff7a9-8904-466a-86ab-8b4486a06ec5.svg" alt="csharp" width="70" height="70"/></a>
+        <a href="https://learn.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/86270481/230434264-25472216-5c78-4494-b7c8-d876bbcac32d.svg" alt="cplusplus" width="70" height="70"/></a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
 <img src="https://user-images.githubusercontent.com/86270481/230463541-4e0fadcd-c73a-4f22-9832-872009594c02.png" alt="bootstrap" height="70"/></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
