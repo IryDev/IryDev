@@ -46,7 +46,7 @@ If you want to check my CV go at https://irycode.github.io/CV/
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/86270481/230434650-b80ff7a9-8904-466a-86ab-8b4486a06ec5.svg" alt="csharp" width="70" height="70"/></a>
         <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/86270481/230434264-25472216-5c78-4494-b7c8-d876bbcac32d.svg" alt="cplusplus" width="70" height="70"/></a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="70" height="70"/></a>
+<img src="https://user-images.githubusercontent.com/86270481/230463541-4e0fadcd-c73a-4f22-9832-872009594c02.png" alt="bootstrap" height="70"/></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="70" height="70"/></a>
  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
