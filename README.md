@@ -32,7 +32,7 @@ If you want to check my CV go at https://irycode.github.io/CV/
 
 
 
-## <img src="https://user-images.githubusercontent.com/86270481/225363892-0d9f20e2-7886-4f40-8e44-343dc3816692.gif" width="30"> Languages/Frameworks/Tools:
+## <img src="https://user-images.githubusercontent.com/86270481/225363892-0d9f20e2-7886-4f40-8e44-343dc3816692.gif" width="25"> Languages-Frameworks-Tools:
 
 <p align="center">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
