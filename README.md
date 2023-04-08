@@ -74,6 +74,8 @@ If you want to check my CV go at https://irycode.github.io/CV/
 <p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=irycode&show_icons=true&theme=tokyonight&locale=en" alt="irycode" /></p>
 
 
+## Contrubutions
+
 ![snake gif](https://github.com/IryCode/IryCode/blob/output/github-contribution-grid-snake.svg)
 
         
