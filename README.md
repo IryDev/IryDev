@@ -36,13 +36,13 @@ If you want to check my CV go at https://irycode.github.io/CV/
 
 <p align="center">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-<img src="https://user-images.githubusercontent.com/86270481/230437915-fa194820-865a-429e-8488-193d122aecf1.svg" alt="html5" width="70" height="70"/></a>
+<img src="https://user-images.githubusercontent.com/86270481/230735951-2959c692-7054-4588-8be8-c7f874bd6f8a.png" alt="html5" width="70" height="70"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-<img src="https://user-images.githubusercontent.com/86270481/230437726-023c3a4d-04ba-4f05-a63a-682a040c99b0.svg" alt="css3" width="70" height="70"/></a>      
+<img src="https://user-images.githubusercontent.com/86270481/230736020-2417ddc5-95aa-40b0-9121-1eb62615820c.png" alt="css3" width="70" height="70"/></a>      
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-<img src="https://user-images.githubusercontent.com/86270481/230436764-e7f84d49-6d55-4e10-93b9-e7002a82a009.svg" alt="javascript" width="70" height="70"/></a>
+<img src="https://user-images.githubusercontent.com/86270481/230736110-f559909b-1443-456c-b8e7-745111e54ee2.png" alt="javascript" width="70" height="70"/></a>
         <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-<img src="https://user-images.githubusercontent.com/86270481/230437046-094c1fe8-b0fd-4ba6-93c3-3898389cf8b2.svg" alt="python" width="70" height="70"/></a>  
+<img src="https://user-images.githubusercontent.com/86270481/230735911-02ce5aac-544a-4605-a469-c2030192bfa1.png" alt="python" width="70" height="70"/></a>  
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/86270481/230434650-b80ff7a9-8904-466a-86ab-8b4486a06ec5.svg" alt="csharp" width="70" height="70"/></a>
         <a href="https://learn.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/86270481/230434264-25472216-5c78-4494-b7c8-d876bbcac32d.svg" alt="cplusplus" width="70" height="70"/></a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -51,7 +51,7 @@ If you want to check my CV go at https://irycode.github.io/CV/
 <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="70" height="70"/></a>
  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70" height="70"/></a>
-        <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/86270481/217801309-f1bc1b9e-fff5-44f6-85a7-266e85eb68e4.png" alt="Express.js" height="70" /></a>
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=express" alt="Express.js" height="60" /></a>
         <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/86270481/230721527-c9e1080c-cba2-48bc-b1d4-6c549d79d27c.png" alt="VsCode" height="70" /></a>
         <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/86270481/230735068-cd62ed49-9832-4c91-8776-cc3b384f6bb1.png" height="70" /></a>
 </p>
