@@ -52,7 +52,6 @@ If you want to check my CV go at https://irycode.github.io/CV/
  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70" height="70"/></a>
         <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/86270481/217801309-f1bc1b9e-fff5-44f6-85a7-266e85eb68e4.png" alt="Express.js" height="70" /></a>
-<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="70" /></a>
         <a href="https://vscode.com" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/86270481/230721527-c9e1080c-cba2-48bc-b1d4-6c549d79d27c.png" alt="VsCode" height="70" /></a>
 </p>
 
