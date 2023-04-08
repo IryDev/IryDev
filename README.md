@@ -19,10 +19,10 @@ The most of things that i made are published in my Github. You can ask me HTML, 
 
 
 If you want to check my CV go at https://irycode.github.io/CV/
-     
+
  <p>
-<a href="https://instagram.com/irycode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="irycode" height="70" width="80" /></a>
-        <a href="https://discord.gg/irycode#7993" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="irycode#7993" height="70" width="80" /></a>
+<a href="https://instagram.com/irycode" target="blank"><img align="center" src="https://user-images.githubusercontent.com/86270481/230735487-ba90cdfe-47ea-47db-9cd7-e6d3aaff2b0c.png" alt="irycode" height="80" width="80" /></a>
+        <a href="https://discord.gg/irycode#7993" target="blank"><img align="center" src="https://user-images.githubusercontent.com/86270481/230735515-f160a7b8-feb8-44f9-98e0-dec016816a10.png" alt="irycode#7993" height="80" width="80" /></a>
   
 </p>
 
@@ -53,6 +53,7 @@ If you want to check my CV go at https://irycode.github.io/CV/
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70" height="70"/></a>
         <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/86270481/217801309-f1bc1b9e-fff5-44f6-85a7-266e85eb68e4.png" alt="Express.js" height="70" /></a>
         <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/86270481/230721527-c9e1080c-cba2-48bc-b1d4-6c549d79d27c.png" alt="VsCode" height="70" /></a>
+        <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/86270481/230735068-cd62ed49-9832-4c91-8776-cc3b384f6bb1.png" height="70" /></a>
 </p>
 
 <h2> <img src="https://user-images.githubusercontent.com/86270481/225368627-ec7fabbe-0141-4a65-b0fc-6a6b33d6c856.gif" width="30"> Projects</h2>
