@@ -79,7 +79,4 @@ If you want to check my CV go at https://irycode.github.io/CV/
 <p align="center">
         <img src="https://github.com/IryCode/IryCode/blob/output/github-contribution-grid-snake.svg">
 </p>
-        
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=irycode&label=Profile%20views&color=0e75b6&style=flat" alt="irycode" /> </p>
+<p align="center"> <img src="https://profile-counter.glitch.me/{IryCode}/count.svg" alt="irycode" /> </p>
