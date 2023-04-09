@@ -45,8 +45,8 @@ If you want to check my CV go at https://irycode.github.io/CV/
 <img src="https://user-images.githubusercontent.com/86270481/230735911-02ce5aac-544a-4605-a469-c2030192bfa1.png" alt="python" width="70" height="70"/></a>  
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/86270481/230434650-b80ff7a9-8904-466a-86ab-8b4486a06ec5.svg" alt="csharp" width="70" height="70"/></a>
         <a href="https://learn.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/86270481/230434264-25472216-5c78-4494-b7c8-d876bbcac32d.svg" alt="cplusplus" width="70" height="70"/></a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-<img src="https://user-images.githubusercontent.com/86270481/230463541-4e0fadcd-c73a-4f22-9832-872009594c02.png" alt="bootstrap" height="70"/></a>
+        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" height="70"/></a>
     <a href="https://djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/86270481/230762172-18ae1afe-1da0-44e9-8929-498c9a523dc8.svg" height="70" /></a>    
  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
 <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="70" height="70"/></a>
