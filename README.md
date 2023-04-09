@@ -49,7 +49,7 @@ If you want to check my CV go at https://irycode.github.io/CV/
 <img src="https://user-images.githubusercontent.com/86270481/230463541-4e0fadcd-c73a-4f22-9832-872009594c02.png" alt="bootstrap" height="70"/></a>
     <a href="https://djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/86270481/230762172-18ae1afe-1da0-44e9-8929-498c9a523dc8.svg" height="70" /></a>    
  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70" height="70"/></a>
+<img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="70" height="70"/></a>
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=express" alt="Express.js" height="70" /></a>
         <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/86270481/230721527-c9e1080c-cba2-48bc-b1d4-6c549d79d27c.png" alt="VsCode" height="70" /></a>
         <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/86270481/230735068-cd62ed49-9832-4c91-8776-cc3b384f6bb1.png" height="70" /></a>
