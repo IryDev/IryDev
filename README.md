@@ -47,10 +47,7 @@ If you want to check my CV go at https://irycode.github.io/CV/
         <a href="https://learn.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/86270481/230434264-25472216-5c78-4494-b7c8-d876bbcac32d.svg" alt="cplusplus" width="70" height="70"/></a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
 <img src="https://user-images.githubusercontent.com/86270481/230463541-4e0fadcd-c73a-4f22-9832-872009594c02.png" alt="bootstrap" height="70"/></a>
-       
-
-        <a href="https://www.djangoproject.com/" target="_blank"><img src="https://user-images.githubusercontent.com/86270481/230762034-ddab7204-6d06-40a6-96fe-14dffe947850.svg" alt="django-framework" height="60" /></a>
-        
+    <a href="https://djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/86270481/230762172-18ae1afe-1da0-44e9-8929-498c9a523dc8.svg" height="70" /></a>    
  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70" height="70"/></a>
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=express" alt="Express.js" height="70" /></a>
@@ -59,9 +56,6 @@ If you want to check my CV go at https://irycode.github.io/CV/
 <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/86270481/230736707-dd6cd16f-f9d7-4de1-bacf-f2bddcaab02e.png" height="70" /></a>
 
 </p>
-
- ![django](https://user-images.githubusercontent.com/86270481/230762034-ddab7204-6d06-40a6-96fe-14dffe947850.svg)
-![django](https://user-images.githubusercontent.com/86270481/230762172-18ae1afe-1da0-44e9-8929-498c9a523dc8.svg)
 
 <h2> <img src="https://user-images.githubusercontent.com/86270481/225368627-ec7fabbe-0141-4a65-b0fc-6a6b33d6c856.gif" width="30"> Projects</h2>
 
