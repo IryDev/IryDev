@@ -53,7 +53,7 @@ If you want to check my CV go at https://irycode.github.io/CV/
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=express" alt="Express.js" height="70" /></a>
         <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=jquery" alt="Express.js" height="70" /></a>
         <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/86270481/230721527-c9e1080c-cba2-48bc-b1d4-6c549d79d27c.png" alt="VsCode" height="70" /></a>
-        <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/86270481/230735068-cd62ed49-9832-4c91-8776-cc3b384f6bb1.png" height="70" /></a>
+        <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/86270481/230974809-68eb972d-9e80-4aa8-9209-fff931b16d8c.png" height="70" /></a>
 <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/86270481/230964964-d0c8004f-1ab3-4eeb-bbdd-741736a21449.png" height="70" /></a>    
 
 </p>
