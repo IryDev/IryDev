@@ -35,18 +35,16 @@ If you want to check my CV go at https://irycode.github.io/CV/
 ## <img src="https://user-images.githubusercontent.com/86270481/225363892-0d9f20e2-7886-4f40-8e44-343dc3816692.gif" width="25"> Languages-Frameworks-Tools:
 
 <p align="center">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-<img src="https://user-images.githubusercontent.com/86270481/230735951-2959c692-7054-4588-8be8-c7f874bd6f8a.png" alt="html5" width="70" height="70"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-<img src="https://user-images.githubusercontent.com/86270481/230736020-2417ddc5-95aa-40b0-9121-1eb62615820c.png" alt="css3" width="70" height="70"/></a>      
+        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+<img src="https://user-images.githubusercontent.com/86270481/230964565-cad496ed-94de-4e11-8457-a2adf245accc.png" alt="html-5" height="70"/></a>
+        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+<img src="https://user-images.githubusercontent.com/86270481/230973300-1207f127-fc0c-480f-b6e7-7ebadad56fcc.png" alt="css3" width="70" height="70"/></a>      
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 <img src="https://user-images.githubusercontent.com/86270481/230736110-f559909b-1443-456c-b8e7-745111e54ee2.png" alt="javascript" width="70" height="70"/></a>
         <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
 <img src="https://user-images.githubusercontent.com/86270481/230735911-02ce5aac-544a-4605-a469-c2030192bfa1.png" alt="python" width="70" height="70"/></a>  
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/86270481/230434650-b80ff7a9-8904-466a-86ab-8b4486a06ec5.svg" alt="csharp" width="70" height="70"/></a>
         <a href="https://learn.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/86270481/230434264-25472216-5c78-4494-b7c8-d876bbcac32d.svg" alt="cplusplus" width="70" height="70"/></a>
-        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-<img src="https://user-images.githubusercontent.com/86270481/230964565-cad496ed-94de-4e11-8457-a2adf245accc.png" alt="bootstrap" height="70"/></a>
         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
 <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" height="70"/></a>
     <a href="https://djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/86270481/230762172-18ae1afe-1da0-44e9-8929-498c9a523dc8.svg" height="70" /></a>    
