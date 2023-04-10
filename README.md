@@ -54,6 +54,7 @@ If you want to check my CV go at https://irycode.github.io/CV/
         <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=jquery" alt="Express.js" height="70" /></a>
         <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/86270481/230985584-46b4c638-e558-4de3-8b42-ab440e3f0f64.png" alt="VsCode" height="72" /></a>
         <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/86270481/230974809-68eb972d-9e80-4aa8-9209-fff931b16d8c.png" height="70" /></a>
+        <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/86270481/230986156-788d139b-8db0-41c5-881e-73326022c815.png" height="70" /></a>
 <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/86270481/230964964-d0c8004f-1ab3-4eeb-bbdd-741736a21449.png" height="70" /></a>    
 
 </p>
