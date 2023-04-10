@@ -38,9 +38,9 @@ If you want to check my CV go at https://irycode.github.io/CV/
         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
 <img src="https://user-images.githubusercontent.com/86270481/230964565-cad496ed-94de-4e11-8457-a2adf245accc.png" alt="html-5" height="70"/></a>
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-<img src="https://user-images.githubusercontent.com/86270481/230973300-1207f127-fc0c-480f-b6e7-7ebadad56fcc.png" alt="css3" width="70" height="70"/></a>      
+<img src="https://user-images.githubusercontent.com/86270481/230973300-1207f127-fc0c-480f-b6e7-7ebadad56fcc.png" alt="css3" width="70" height="70"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-<img src="https://user-images.githubusercontent.com/86270481/230736110-f559909b-1443-456c-b8e7-745111e54ee2.png" alt="javascript" width="70" height="70"/></a>
+<img src="https://user-images.githubusercontent.com/86270481/230979157-c5cb6fd0-0a7f-4ac9-a93c-6e2f34f9ac8e.png" alt="javascript" width="70" height="70"/></a>
         <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
 <img src="https://user-images.githubusercontent.com/86270481/230735911-02ce5aac-544a-4605-a469-c2030192bfa1.png" alt="python" width="70" height="70"/></a>  
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/86270481/230434650-b80ff7a9-8904-466a-86ab-8b4486a06ec5.svg" alt="csharp" width="70" height="70"/></a>
