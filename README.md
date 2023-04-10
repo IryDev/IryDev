@@ -42,7 +42,7 @@ If you want to check my CV go at https://irycode.github.io/CV/
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 <img src="https://user-images.githubusercontent.com/86270481/230979157-c5cb6fd0-0a7f-4ac9-a93c-6e2f34f9ac8e.png" alt="javascript" width="70" height="70"/></a>
         <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-<img src="https://user-images.githubusercontent.com/86270481/230735911-02ce5aac-544a-4605-a469-c2030192bfa1.png" alt="python" width="70" height="70"/></a>  
+<img src="https://user-images.githubusercontent.com/86270481/230984905-316d1067-2ade-46c0-8a4b-e78aab0f19c1.png" alt="python" width="70" height="70"/></a>  
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/86270481/230434650-b80ff7a9-8904-466a-86ab-8b4486a06ec5.svg" alt="csharp" width="70" height="70"/></a>
         <a href="https://learn.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/86270481/230434264-25472216-5c78-4494-b7c8-d876bbcac32d.svg" alt="cplusplus" width="70" height="70"/></a>
         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
