@@ -46,8 +46,7 @@ If you want to check my CV go at https://irycode.github.io/CV/
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/86270481/230434650-b80ff7a9-8904-466a-86ab-8b4486a06ec5.svg" alt="csharp" width="70" height="70"/></a>
         <a href="https://learn.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/86270481/230434264-25472216-5c78-4494-b7c8-d876bbcac32d.svg" alt="cplusplus" width="70" height="70"/></a>
         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-<img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" height="70"/></a>
-    <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=flask" alt="Flask Python" height="70" /></a>    
+<img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" height="70"/></a>   
  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
 <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="70" height="70"/></a>
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=express" alt="Express.js" height="70" /></a>
