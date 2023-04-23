@@ -52,6 +52,8 @@ If you want to check my CV go at https://irycode.github.io/CV/
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=express" alt="Express.js" height="70" /></a>
         <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=react" alt="ReactJS" height="70" /></a>
         <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=jquery" alt="JQuery" height="70" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
+<img src="https://user-images.githubusercontent.com/86270481/233869052-51ee6e41-f93d-41f6-9ba6-80b0557686e0.png" alt="sass" height="70"/></a>
         <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/86270481/230985584-46b4c638-e558-4de3-8b42-ab440e3f0f64.png" alt="VsCode" height="72" /></a>
         <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/86270481/230974809-68eb972d-9e80-4aa8-9209-fff931b16d8c.png" alt="Github" height="70" /></a>
 <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/86270481/230964964-d0c8004f-1ab3-4eeb-bbdd-741736a21449.png" alt="PyCharm" height="70" /></a>    
