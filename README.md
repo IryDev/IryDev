@@ -57,7 +57,7 @@ If you want to check my CV go at https://irycode.github.io/CV/
         <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/86270481/230985584-46b4c638-e558-4de3-8b42-ab440e3f0f64.png" alt="VsCode" height="72" /></a>
         <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/86270481/230974809-68eb972d-9e80-4aa8-9209-fff931b16d8c.png" alt="Github" height="70" /></a>
 <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/86270481/230964964-d0c8004f-1ab3-4eeb-bbdd-741736a21449.png" alt="PyCharm" height="70" /></a>    
-<a href="https://www.jetbrains.com/pycharm/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/86270481/233080392-e1068ca0-f7c0-45fd-8fcd-dc6829dc6edf.png" alt="WebStorm" height="70" /></a>    
+<a href="https://www.jetbrains.com/webstorm/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/86270481/233080392-e1068ca0-f7c0-45fd-8fcd-dc6829dc6edf.png" alt="WebStorm" height="70" /></a>    
 </p>
 
 <h2> <img src="https://user-images.githubusercontent.com/86270481/225368627-ec7fabbe-0141-4a65-b0fc-6a6b33d6c856.gif" alt="projet gif" width="30"> Projects</h2>
