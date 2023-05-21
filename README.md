@@ -1,12 +1,12 @@
 ![mario-coding](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)
 <h1 align="center">Hello there 👋🏿, I'm Rey</h1>
 
-##  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=30&duration=4000&pause=1000&color=FFFFFF&center=true&width=435&lines=A+Web+Developer+Wannabe)](https://github.com/IryCode)
+##  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=30&duration=4000&pause=1000&color=FFFFFF&center=true&width=435&lines=A+Web+Developer+Wannabe)](https://github.com/IryDev)
 
 
 <p><img align="right" width=350
         src="https://www.gifcen.com/wp-content/uploads/2022/08/mario-gif-4.gif"
-        alt="irycode" />
+        alt="irydev" />
 </p>
 
 <p>
@@ -18,11 +18,11 @@ My dream is to build something that gave an impact even if this one is little.
 The most of things that i made are published in my Github. You can ask me HTML, CSS, JS topics i will doing my best to answer your question.
 
 
-If you want to check my CV go at https://irycode.github.io/CV/
+If you want to check my CV go at https://irydev.github.io/CV/
 
  <p>
 <a href="https://instagram.com/irycode" target="blank"><img align="center" src="https://user-images.githubusercontent.com/86270481/230735487-ba90cdfe-47ea-47db-9cd7-e6d3aaff2b0c.png" alt="irycode" height="80" width="80" /></a>
-        <a href="https://discord.gg/irycode#7993" target="blank"><img align="center" src="https://user-images.githubusercontent.com/86270481/230735515-f160a7b8-feb8-44f9-98e0-dec016816a10.png" alt="irycode#7993" height="80" width="80" /></a>
+        <a href="https://discord.gg/irycode#7993" target="blank"><img align="center" src="https://user-images.githubusercontent.com/86270481/230735515-f160a7b8-feb8-44f9-98e0-dec016816a10.png" alt="irydev#7993" height="80" width="80" /></a>
   
 </p>
 
@@ -63,22 +63,22 @@ If you want to check my CV go at https://irycode.github.io/CV/
 <h2> <img src="https://user-images.githubusercontent.com/86270481/225368627-ec7fabbe-0141-4a65-b0fc-6a6b33d6c856.gif" alt="projet gif" width="30"> Projects</h2>
 
 <p align="center"> 
-<img width="300" alt="irycode pespi pepsi-website irycode" src="https://user-images.githubusercontent.com/86270481/230734550-e43dbc26-d2f8-437d-b804-d2f1c7bfb6e4.png">
-<a href="https://github.com/IryCode/chatspace"><img width="300" alt="tinder irycode chatspace tinder-website irycode" src="https://user-images.githubusercontent.com/86270481/230734417-080b3bc1-e940-43de-8cf3-f904ef5ffd5f.png"></a>
-<img width="300" alt="space nasa space-tourism irycode" src="https://user-images.githubusercontent.com/86270481/214530959-d6a99abf-4830-480a-a896-c6b2eab4fe01.png">
-<a href="https://github.com/IryCode/netflix-squidgame"><img width="300" alt="squid game netflix irycode" src="https://user-images.githubusercontent.com/86270481/230734816-98b673f8-39a6-4a1a-a852-b2250f1fc167.png"></a>
-        <img width="300" alt="tindog boostrap tinder irycode" src="https://user-images.githubusercontent.com/86270481/217653133-5cc1ce9b-2ae9-449c-95a2-fed019a72aaf.png">
-        <a href="https://github.com/IryCode/CV">
-        <img width="300" alt="irycode" src="https://user-images.githubusercontent.com/86270481/230442286-132751ec-b73e-4b2e-8183-46f8d8d3d436.png"></a>
+<img width="300" alt="irydev pespi pepsi-website" src="https://user-images.githubusercontent.com/86270481/230734550-e43dbc26-d2f8-437d-b804-d2f1c7bfb6e4.png">
+<a href="https://github.com/IryDev/chatspace"><img width="300" alt="tinder irydev chatspace tinder-website" src="https://user-images.githubusercontent.com/86270481/230734417-080b3bc1-e940-43de-8cf3-f904ef5ffd5f.png"></a>
+<img width="300" alt="space nasa space-tourism dev" src="https://user-images.githubusercontent.com/86270481/214530959-d6a99abf-4830-480a-a896-c6b2eab4fe01.png">
+<a href="https://github.com/IryDev/netflix-squidgame"><img width="300" alt="squid game netflix irycode" src="https://user-images.githubusercontent.com/86270481/230734816-98b673f8-39a6-4a1a-a852-b2250f1fc167.png"></a>
+        <img width="300" alt="tindog boostrap tinder irydev" src="https://user-images.githubusercontent.com/86270481/217653133-5cc1ce9b-2ae9-449c-95a2-fed019a72aaf.png">
+        <a href="https://github.com/IryDev/CV">
+        <img width="300" alt="irydev" src="https://user-images.githubusercontent.com/86270481/230442286-132751ec-b73e-4b2e-8183-46f8d8d3d436.png"></a>
 </p>
 
 <h2> <img src="https://user-images.githubusercontent.com/86270481/225367266-7a76485f-9e8a-4343-ab9f-672e1b254018.gif" width="30"> Stats</h2> 
 
-<p align="center" ><img width="31%" height="100%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=irycode&show_icons=true&theme=jolly&locale=en&layout=default" alt="irycode" />
-<img width="61%"  src="https://github-readme-stats.vercel.app/api?username=irycode&show_icons=true&theme=jolly&locale=en" alt="irycode" />
+<p align="center" ><img width="31%" height="100%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=irycode&show_icons=true&theme=jolly&locale=en&layout=default" alt="irydev" />
+<img width="61%"  src="https://github-readme-stats.vercel.app/api?username=irycode&show_icons=true&theme=jolly&locale=en" alt="irydev" />
 </p>
 
 <p align="center">
         <img src="https://github.com/IryCode/IryCode/blob/output/github-contribution-grid-snake.svg">
 </p>
-<p align="center"> <img src="https://profile-counter.glitch.me/{IryCode}/count.svg" alt="irycode" /> </p>
+<p align="center"> <img src="https://profile-counter.glitch.me/{IryCode}/count.svg" alt="irydev" /> </p>
