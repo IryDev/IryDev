@@ -69,9 +69,8 @@ If you want to check my CV go at https://irydev.github.io/CV/
 <a href="https://github.com/IryDev/netflix-squidgame"><img width="300" alt="squid game netflix irycode" src="https://user-images.githubusercontent.com/86270481/230734816-98b673f8-39a6-4a1a-a852-b2250f1fc167.png"></a>
         <img width="300" alt="tindog boostrap tinder irydev" src="https://user-images.githubusercontent.com/86270481/217653133-5cc1ce9b-2ae9-449c-95a2-fed019a72aaf.png">
         <a href="https://github.com/IryDev/CV">
-        <img width="300" alt="irydev" src="https://user-images.githubusercontent.com/86270481/230442286-132751ec-b73e-4b2e-8183-46f8d8d3d436.png"></a>
+        <img width="300" alt="irydev" src="https://github.com/IryDev/IryDev/assets/86270481/cb6926be-99eb-443a-9bc7-946fe8e4301d"></a>
 </p>
-
 <h2> <img src="https://user-images.githubusercontent.com/86270481/225367266-7a76485f-9e8a-4343-ab9f-672e1b254018.gif" width="30"> Stats</h2> 
 
 <p align="center" ><img width="31%" height="100%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=irydev&show_icons=true&theme=jolly&locale=en&layout=default" alt="irydev" />
