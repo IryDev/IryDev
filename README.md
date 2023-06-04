@@ -6,7 +6,7 @@
 
 <p><img align="right" width=350
         src="https://www.gifcen.com/wp-content/uploads/2022/08/mario-gif-4.gif"
-        alt="irydev" />
+        alt="mario" />
 </p>
 
 <p>
