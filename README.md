@@ -20,12 +20,9 @@ The most of things that i made are published in my Github. You can ask me HTML, 
 
 If you want to check my CV go at https://irydev.github.io/CV/
 
- <p>
+<p>
 <a href="https://instagram.com/irydev" target="blank"><img align="center" src="https://user-images.githubusercontent.com/86270481/230735487-ba90cdfe-47ea-47db-9cd7-e6d3aaff2b0c.png" alt="instagram" height="80" width="80" /></a>
         <a href="https://discord.gg/irydev#7993" target="blank"><img align="center" src="https://user-images.githubusercontent.com/86270481/230735515-f160a7b8-feb8-44f9-98e0-dec016816a10.png" alt="discord" height="80" width="80" /></a>
-  
-</p>
-
 </p>
 
 ![line](https://user-images.githubusercontent.com/86270481/225366031-44877c54-647e-4dfe-8b05-a639eb1a8211.gif)
