@@ -62,7 +62,7 @@ If you want to check my CV go at https://irydev.github.io/CV/
 <p align="center"> 
 <img width="300" alt="irydev pespi pepsi-website" src="https://user-images.githubusercontent.com/86270481/230734550-e43dbc26-d2f8-437d-b804-d2f1c7bfb6e4.png">
 <a href="https://github.com/IryDev/chatspace"><img width="300" alt="tinder irydev chatspace tinder-website" src="https://user-images.githubusercontent.com/86270481/230734417-080b3bc1-e940-43de-8cf3-f904ef5ffd5f.png"></a>
-<img width="300" alt="space-tourism frontendmentor dev" src="https://user-images.githubusercontent.com/86270481/214530959-d6a99abf-4830-480a-a896-c6b2eab4fe01.png">
+<img width="300" alt="space-tourism frontendmentor" src="https://github.com/IryDev/IryDev/assets/86270481/3d18b9e3-ec42-4d78-a7a7-fd8a9c660136">
 <a href="https://github.com/IryDev/netflix-squidgame"><img width="300" alt="squid game netflix irycode" src="https://user-images.githubusercontent.com/86270481/230734816-98b673f8-39a6-4a1a-a852-b2250f1fc167.png"></a>
         <img width="300" alt="tindog boostrap tinder irydev" src="https://user-images.githubusercontent.com/86270481/217653133-5cc1ce9b-2ae9-449c-95a2-fed019a72aaf.png">
         <a href="https://github.com/IryDev/CV">
