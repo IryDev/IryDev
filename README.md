@@ -70,7 +70,7 @@ If you want to check my CV go at https://irydev.github.io/CV/
 </p>
 <h2> <img src="https://user-images.githubusercontent.com/86270481/225367266-7a76485f-9e8a-4343-ab9f-672e1b254018.gif" width="30"> Stats</h2> 
 
-<p align="center" ><img width="31%" height="100%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical&theme=jolly" alt="irydev" />
+<p align="center" ><img width="31%" height="100%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=irydev&layout=donut-vertical&theme=jolly" alt="irydev" />
 <img width="61%"  src="https://github-readme-stats.vercel.app/api?username=irydev&show_icons=true&theme=jolly&locale=en" alt="irydev" />
 </p>
 
