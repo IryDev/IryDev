@@ -11,11 +11,11 @@
 
 <p>
  
-I'm really involved about coding since 1 year, coding give me the feeling to build something really usefull.
+I'm really involved in coding for 1 year, coding gives me the feeling to build something really useful.
 I'm now addicted about improve my skills and one day hope to become a web developer
-Really passionate about programming all of the projects on my github are inspired or the reproduction of website that i see in the web
+Really passionate about programming all of the projects on my GitHub are inspired or the reproduction of websites that i see on the web
 My dream is to build something that gave an impact even if this one is little.
-The most of things that i made are published in my Github. You can ask me HTML, CSS, JS topics i will doing my best to answer your question.
+The most of things that I made are published in my Github. You can ask me about HTML, CSS, or JS topics I will do my best to answer your question.
 
 
 If you want to check my CV go at https://irydev.github.io/CV/
