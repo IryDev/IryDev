@@ -6,19 +6,19 @@
 
 <p><img align="right" width=350
         src="https://www.gifcen.com/wp-content/uploads/2022/08/mario-gif-4.gif"
-        alt="mario" />
+        alt="Mario" />
 </p>
 
 <p>
  
 I'm really involved in coding for 1 year, coding gives me the feeling to build something really useful.
 I'm now addicted about improve my skills and one day hope to become a web developer
-Really passionate about programming all of the projects on my GitHub are inspired or the reproduction of websites that i see on the web
+Really passionate about programming all of the projects on my GitHub are inspired or the reproduction of websites that I see on the web
 My dream is to build something that gave an impact even if this one is little.
 The most of things that I made are published in my Github. You can ask me about HTML, CSS, or JS topics I will do my best to answer your question.
 
 
-If you want to check my CV go at https://irydev.github.io/CV/
+If you want to check my portfolio go at https://irydev.github.io/Portfolio/
 
 <p>
 <a href="https://instagram.com/irydev" target="blank"><img align="center" src="https://user-images.githubusercontent.com/86270481/230735487-ba90cdfe-47ea-47db-9cd7-e6d3aaff2b0c.png" alt="Instagram" height="80" width="80" /></a>
