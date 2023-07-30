@@ -74,4 +74,4 @@ If you want to check my portfolio go at https://irydev.github.io/Portfolio/
 
 <p align="center" ><img width="31%" height="100%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=irydev&layout=donut-vertical&theme=jolly" alt="irydev" />
 </p>
-<p align="center"> <img src="https://profile-counter.glitch.me/{IryDev}/count.svg" alt="irydev" /> </p>
+
