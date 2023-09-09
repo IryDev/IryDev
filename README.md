@@ -46,7 +46,6 @@ If you want to check my portfolio go at https://irydev.github.io/Portfolio/
         <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=react" alt="ReactJS" height="70" /></a>
         <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=vue" alt="VueJS" height="70" /></a>
         <a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" height="70" /></a>
-        <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=jquery" alt="JQuery" height="70" /></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
 <img src="https://user-images.githubusercontent.com/86270481/233869052-51ee6e41-f93d-41f6-9ba6-80b0557686e0.png" alt="sass" height="70"/></a>
 </p>
