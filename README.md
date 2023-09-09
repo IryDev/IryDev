@@ -40,7 +40,6 @@ If you want to check my portfolio go at https://irydev.github.io/Portfolio/
 <img src="https://user-images.githubusercontent.com/86270481/230979157-c5cb6fd0-0a7f-4ac9-a93c-6e2f34f9ac8e.png" alt="javascript" width="70" height="70"/></a>
         <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
 <img src="https://user-images.githubusercontent.com/86270481/230984905-316d1067-2ade-46c0-8a4b-e78aab0f19c1.png" alt="python" width="70" height="70"/></a>  
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/86270481/230434650-b80ff7a9-8904-466a-86ab-8b4486a06ec5.svg" alt="csharp" width="70" height="70"/></a>
  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
 <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="70" height="70"/></a>
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=express" alt="Express.js" height="70" /></a>
