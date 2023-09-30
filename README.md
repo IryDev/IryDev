@@ -11,19 +11,16 @@
 
 <p>
  
-I'm really involved in coding for 1 year, coding gives me the feeling to build something really useful.
-I'm now addicted about improve my skills and one day hope to become a web developer
+I've really involved in coding for 1 year, coding gives me the feeling to build something really useful.
+I'm now addicted to improving my skills and one day hope to become a web developer
 Really passionate about programming all of the projects on my GitHub are inspired or the reproduction of websites that I see on the web
-My dream is to build something that gave an impact even if this one is little.
+My dream is to build something that has an impact even if this one is little.
 The most of things that I made are published in my Github. You can ask me about HTML, CSS, or JS topics I will do my best to answer your question.
 
 
-If you want to check my portfolio go at https://irydev.github.io/Portfolio/
+If you want to check my portfolio go to https://rey-kosso-portfolio.vercel.app/
 
-<p>
-<a href="https://instagram.com/irydev" target="blank"><img align="center" src="https://user-images.githubusercontent.com/86270481/230735487-ba90cdfe-47ea-47db-9cd7-e6d3aaff2b0c.png" alt="Instagram" height="80" width="80" /></a>
-        <a href="https://discord.gg/irydev#7993" target="blank"><img align="center" src="https://user-images.githubusercontent.com/86270481/230735515-f160a7b8-feb8-44f9-98e0-dec016816a10.png" alt="Discord" height="80" width="80" /></a>
-</p>
+
 
 ![line](https://user-images.githubusercontent.com/86270481/225366031-44877c54-647e-4dfe-8b05-a639eb1a8211.gif)
 
@@ -32,7 +29,7 @@ If you want to check my portfolio go at https://irydev.github.io/Portfolio/
 ## <img src="https://user-images.githubusercontent.com/86270481/225363892-0d9f20e2-7886-4f40-8e44-343dc3816692.gif" width="25"> Languages-Frameworks-Tools:
 
 <p align="center">
-        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
 <img src="https://user-images.githubusercontent.com/86270481/230964565-cad496ed-94de-4e11-8457-a2adf245accc.png" alt="html-5" height="70"/></a>
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
 <img src="https://user-images.githubusercontent.com/86270481/230973300-1207f127-fc0c-480f-b6e7-7ebadad56fcc.png" alt="css3" width="70" height="70"/></a>
@@ -44,6 +41,7 @@ If you want to check my portfolio go at https://irydev.github.io/Portfolio/
 <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="70" height="70"/></a>
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=express" alt="Express.js" height="70" /></a>
         <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=react" alt="ReactJS" height="70" /></a>
+        <a href="https://astro.build/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=astro" alt="AstroJS" height="70" /></a>
         <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=vue" alt="VueJS" height="70" /></a>
         <a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" height="70" /></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
