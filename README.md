@@ -49,10 +49,9 @@ If you want to check my portfolio go to https://rey-kosso-portfolio.vercel.app/
 
 <h2> <img src="https://user-images.githubusercontent.com/86270481/225368627-ec7fabbe-0141-4a65-b0fc-6a6b33d6c856.gif" alt="projet gif" width="30"> Projects</h2>
 
-
 <p align="center"> 
 <img width="300" alt="irydev pespi pepsi-website" src="https://user-images.githubusercontent.com/86270481/230734550-e43dbc26-d2f8-437d-b804-d2f1c7bfb6e4.png">
-<a href="https://github.com/IryDev/chatspace"><img width="300" alt="tinder irydev chatspace tinder-website" src="https://user-images.githubusercontent.com/86270481/230734417-080b3bc1-e940-43de-8cf3-f904ef5ffd5f.png"></a>
+<a href="https://github.com/IryDev/tinder-clone-template"><img width="300" alt="tinder irydev chatspace tinder-website" src="[https://user-images.githubusercontent.com/86270481/230734417-080b3bc1-e940-43de-8cf3-f904ef5ffd5f.png](https://github.com/IryDev/IryDev/assets/86270481/4468833c-e167-4bd7-8639-ff26f7eac6ad)"></a>
 <img width="300" alt="IryDev space-tourism frontendmentor" src="https://github.com/IryDev/IryDev/assets/86270481/6cd6e511-3f32-402c-a08c-b6a523181c41">
 <a href="https://github.com/IryDev/netflix-squidgame"><img width="300" alt="squid game netflix irycode" src="https://user-images.githubusercontent.com/86270481/230734816-98b673f8-39a6-4a1a-a852-b2250f1fc167.png"></a>
         <img width="300" alt="tindog boostrap tinder irydev" src="https://user-images.githubusercontent.com/86270481/217653133-5cc1ce9b-2ae9-449c-95a2-fed019a72aaf.png">
