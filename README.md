@@ -51,14 +51,15 @@ If you want to check my portfolio go to https://rey-kosso-portfolio.vercel.app/
 <h2> <img src="https://user-images.githubusercontent.com/86270481/225368627-ec7fabbe-0141-4a65-b0fc-6a6b33d6c856.gif" alt="projet gif" width="30"> Projects</h2>
 
 <p align="center"> 
-<img width="300" alt="irydev pespi pepsi-website" src="https://user-images.githubusercontent.com/86270481/230734550-e43dbc26-d2f8-437d-b804-d2f1c7bfb6e4.png">
+        <img width="300" alt="irydev vegg'in bites vegetarian food home page" src="https://github.com/IryDev/IryDev/assets/86270481/ae727b6b-47d2-4c66-b90c-1f9570c89764">
+        <a href="https://github.com/IryDev/"><img width="300" alt="irydev harry potter" src="https://github.com/IryDev/IryDev/assets/86270481/99c811c8-357d-490e-a52f-439b15bc73c7"></a>
 <a href="https://github.com/IryDev/tinder-clone-template"><img width="300" alt="irydev tinder-clone tinder-website template" src="https://github.com/IryDev/IryDev/assets/86270481/4468833c-e167-4bd7-8639-ff26f7eac6ad"></a>
+        <img width="300" alt="irydev pespi pepsi-website" src="https://user-images.githubusercontent.com/86270481/230734550-e43dbc26-d2f8-437d-b804-d2f1c7bfb6e4.png">
+<a href="https://github.com/IryDev/netflix-squidgame"><img width="300" alt="squid game netflix irycode" src="https://user-images.githubusercontent.com/86270481/230734816-98b673f8-39a6-4a1a-a852-b2250f1fc167.png"></a> 
 <img width="300" alt="IryDev space-tourism frontendmentor" src="https://github.com/IryDev/IryDev/assets/86270481/6cd6e511-3f32-402c-a08c-b6a523181c41">
-<a href="https://github.com/IryDev/netflix-squidgame"><img width="300" alt="squid game netflix irycode" src="https://user-images.githubusercontent.com/86270481/230734816-98b673f8-39a6-4a1a-a852-b2250f1fc167.png"></a>
-        <img width="300" alt="tindog boostrap tinder irydev" src="https://user-images.githubusercontent.com/86270481/217653133-5cc1ce9b-2ae9-449c-95a2-fed019a72aaf.png">
-        <a href="https://github.com/IryDev/CV">
-        <img width="300" alt="irydev" src="https://github.com/IryDev/IryDev/assets/86270481/cb6926be-99eb-443a-9bc7-946fe8e4301d"></a>
+ 
 </p>
+
 <h2> <img src="https://user-images.githubusercontent.com/86270481/225367266-7a76485f-9e8a-4343-ab9f-672e1b254018.gif" width="30"> Stats</h2> 
 
 <p align="center" ><img width="31%" height="100%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=irydev&layout=donut-vertical&theme=jolly" alt="irydev" />
