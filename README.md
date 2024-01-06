@@ -11,15 +11,15 @@
 
 <p>
  
-I've really involved in coding for 1 year, coding gives me the feeling to build something really useful.
-I'm now addicted to improving my skills and one day hope to become a web developer
-Really passionate about programming all of the projects on my GitHub are inspired or the reproduction of websites that I see on the web
-My dream is to build something that has an impact even if this one is little.
-The most of things that I made are published in my Github. You can ask me about HTML, CSS, or JS topics I will do my best to answer your question.
+👋 Hi, I'm Rey, a passionate web developer with a deep interest in creating impactful digital experiences. Over the past year, I've immersed myself in the world of coding, exploring cutting-edge technologies and frameworks.
 
+💻 Currently, my tech stack includes React, Vue, Astro, Sass, Tailwind CSS, and I'm actively learning Next.js to further enhance my capabilities. My GitHub repositories showcase my dedication to the craft, featuring projects that are inspired by and often replicate the functionality of prominent websites.
 
-If you want to check my portfolio go to https://rey-kosso-portfolio.vercel.app/
+🚀 My goal is to not just build, but to create solutions that make a meaningful impact. Whether it's a small utility or a larger application, I believe in the power of code to shape the digital landscape.
 
+🌐 You can explore my portfolio at [Portfolio Link](https://rey-kosso-portfolio.vercel.app/) to see some of my recent work. Feel free to reach out if you have questions or want to discuss anything related to HTML, CSS, or JavaScript. I'm here to share my knowledge and contribute to the tech community.
+
+Let's code something amazing together! 🚀
 
 
 ![line](https://user-images.githubusercontent.com/86270481/225366031-44877c54-647e-4dfe-8b05-a639eb1a8211.gif)
@@ -35,17 +35,22 @@ If you want to check my portfolio go to https://rey-kosso-portfolio.vercel.app/
 <img src="https://skillicons.dev/icons?i=css" alt="css3" width="70" height="70"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="70" height="70"/></a>
+        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+<img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="70" height="70"/></a>
         <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
 <img src="https://skillicons.dev/icons?i=py" alt="python" width="70" height="70"/></a>  
  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
 <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="70" height="70"/></a>
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=express" alt="Express.js" height="70" /></a>
         <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=react" alt="ReactJS" height="70" /></a>
+        <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=next" alt="NextJS" height="70" /></a>
         <a href="https://astro.build/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=astro" alt="Astro" height="70" /></a>
         <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=vue" alt="VueJS" height="70" /></a>
         <a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" height="70" /></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
 <img src="https://user-images.githubusercontent.com/86270481/233869052-51ee6e41-f93d-41f6-9ba6-80b0557686e0.png" alt="sass" height="70"/></a>
+        <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=figma" alt="Figma" height="70" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
 </p>
 
 <h2> <img src="https://user-images.githubusercontent.com/86270481/225368627-ec7fabbe-0141-4a65-b0fc-6a6b33d6c856.gif" alt="projet gif" width="30"> Projects</h2>
