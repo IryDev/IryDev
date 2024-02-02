@@ -44,7 +44,7 @@ Let's code something amazing together! 🚀
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=express" alt="Express.js" height="70" /></a>
         <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=react" alt="ReactJS" height="70" /></a>
         <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=next" alt="NextJS" height="70" /></a>
-        <a href="https://astro.build/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=astro" alt="Astro" height="70" /></a>
+        <a href="https://svelte.dev/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=svelte" alt="SvelteJS" height="70" /></a>
         <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=vue" alt="VueJS" height="70" /></a>
         <a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" height="70" /></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
