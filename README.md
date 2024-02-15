@@ -49,8 +49,8 @@ Let's code something amazing together! 🚀
         <a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" height="70" /></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
 <img src="https://user-images.githubusercontent.com/86270481/233869052-51ee6e41-f93d-41f6-9ba6-80b0557686e0.png" alt="sass" height="70"/></a>
+        <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=docker" alt="Docker" height="70" /></a>
         <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=figma" alt="Figma" height="70" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
 </p>
 
 <h2> <img src="https://user-images.githubusercontent.com/86270481/225368627-ec7fabbe-0141-4a65-b0fc-6a6b33d6c856.gif" alt="projet gif" width="30"> Projects</h2>
