@@ -28,7 +28,7 @@ Let's code something amazing together! 🚀
 
 ## <img src="https://user-images.githubusercontent.com/86270481/225363892-0d9f20e2-7886-4f40-8e44-343dc3816692.gif" width="25"> Languages-Frameworks-Tools:
 
-<p align="center">
+<p align="center">   
         <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
 <img src="https://skillicons.dev/icons?i=html" alt="html-5" height="70"/></a>
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
@@ -51,12 +51,9 @@ Let's code something amazing together! 🚀
         <a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" height="70" /></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
 <img src="https://user-images.githubusercontent.com/86270481/233869052-51ee6e41-f93d-41f6-9ba6-80b0557686e0.png" alt="sass" height="70"/></a>
-        <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=docker" alt="Docker" height="70" /></a>
         <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=php" alt="PHP" height="70" /></a>
 <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=laravel" alt="Laravel" height="70" /></a>
         <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=postgres" alt="PostegresSQL" height="70" /></a>
-        <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="70" /></a>
-        <a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=prisma" alt="Prisma" height="70" /></a>
         <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=figma" alt="Figma" height="70" /></a>
 </p>
 
