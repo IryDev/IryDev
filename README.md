@@ -38,7 +38,9 @@ Let's code something amazing together! 🚀
         <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
 <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="70" height="70"/></a>
         <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-<img src="https://skillicons.dev/icons?i=py" alt="python" width="70" height="70"/></a>  
+<img src="https://skillicons.dev/icons?i=py" alt="python" width="70" height="70"/></a>
+        <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
+<img src="https://skillicons.dev/icons?i=django" alt="django" width="70" height="70"/></a>
  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
 <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="70" height="70"/></a>
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=express" alt="Express.js" height="70" /></a>
