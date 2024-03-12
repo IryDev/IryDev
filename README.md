@@ -56,6 +56,7 @@ Let's code something amazing together! 🚀
 <a href="https://adonisjs.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=adonis" alt="Adonis" height="70" /></a>
         <a href="https://https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=prisma" alt="Prisma" height="70" /></a>
         <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=postgres" alt="PostgresSQL" height="70" /></a>
+        <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=mongo" alt="MongoDB" height="70" /></a>
         <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=figma" alt="Figma" height="70" /></a>
 </p>
 
