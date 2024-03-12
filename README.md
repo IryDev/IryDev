@@ -11,7 +11,7 @@
 
 <p>
  
-👋 Hi, I'm Rey, a passionate frontend developer with a deep interest in creating impactful digital experiences. I've immersed myself in the world of coding, exploring cutting-edge technologies and frameworks.
+👋 Hi, I'm Rey, a futur fullstack developer with a deep interest in creating impactful digital experiences. I've immersed myself in the world of coding, exploring cutting-edge technologies and frameworks.
 
 💻 Currently, my tech stack includes React, Vue, Astro, Sass, Tailwind CSS, and I'm actively learning Next.js to further enhance my capabilities. My GitHub repositories showcase my dedication to the craft, featuring projects that are inspired by and often replicate the functionality of prominent websites.
 
