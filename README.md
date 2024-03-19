@@ -40,7 +40,6 @@ Let's code something amazing together! 🚀
         <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
 <img src="https://skillicons.dev/icons?i=py" alt="python" width="70" height="70"/></a>
         <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-<img src="https://skillicons.dev/icons?i=django" alt="django" width="70" height="70"/></a>
  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
 <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="70" height="70"/></a>
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=express" alt="Express.js" height="70" /></a>
@@ -55,7 +54,7 @@ Let's code something amazing together! 🚀
 <a href="https://adonisjs.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=adonis" alt="Adonis" height="70" /></a>
         <a href="https://https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=prisma" alt="Prisma" height="70" /></a>
         <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=postgres" alt="PostgresSQL" height="70" /></a>
-        <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=mongo" alt="MongoDB" height="70" /></a>
+        <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=docker" alt="Docker" height="70" /></a>
         <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=figma" alt="Figma" height="70" /></a>
 </p>
 
