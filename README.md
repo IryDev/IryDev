@@ -43,6 +43,8 @@ Let's code something amazing together! 🚀
  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
 <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="70" height="70"/></a>
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=express" alt="Express.js" height="70" /></a>
+                <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=next" alt="NextJS" height="70" /></a>
+                <a href="https://adonisjs.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=adonis" alt="Adonis" height="70" /></a>
         <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=react" alt="ReactJS" height="70" /></a>
         <a href="https://svelte.dev/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=svelte" alt="SvelteJS" height="70" /></a>
         <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=vue" alt="VueJS" height="70" /></a>
@@ -51,13 +53,12 @@ Let's code something amazing together! 🚀
 <img src="https://user-images.githubusercontent.com/86270481/233869052-51ee6e41-f93d-41f6-9ba6-80b0557686e0.png" alt="sass" height="70"/></a>
         <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=php" alt="PHP" height="70" /></a>
 <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=laravel" alt="Laravel" height="70" /></a>
-<a href="https://adonisjs.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=adonis" alt="Adonis" height="70" /></a>
         <a href="https://https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=prisma" alt="Prisma" height="70" /></a>
         <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=postgres" alt="PostgresSQL" height="70" /></a>
         <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=docker" alt="Docker" height="70" /></a>
         <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=figma" alt="Figma" height="70" /></a>
 </p>
-
+                
 <h2> <img src="https://user-images.githubusercontent.com/86270481/225368627-ec7fabbe-0141-4a65-b0fc-6a6b33d6c856.gif" alt="projet gif" width="30"> Projects</h2>
 
 <p align="center"> 
