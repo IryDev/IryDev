@@ -62,7 +62,6 @@ Let's code something amazing together! 🚀
 <h2> <img src="https://user-images.githubusercontent.com/86270481/225368627-ec7fabbe-0141-4a65-b0fc-6a6b33d6c856.gif" alt="projet gif" width="30"> Projects</h2>
 
 <p align="center"> 
-        <img width="300" alt="irydev vegg'in bites vegetarian food home page" src="https://github.com/IryDev/IryDev/assets/86270481/f83739d6-11e3-4148-b8e3-96503872d87c">
         <img width="300" alt="irydev vegg'in bites vegetarian food home page" src="https://github.com/IryDev/IryDev/assets/86270481/ae727b6b-47d2-4c66-b90c-1f9570c89764">
         <a href="https://github.com/IryDev/"><img width="300" alt="irydev harry potter" src="https://github.com/IryDev/IryDev/assets/86270481/99c811c8-357d-490e-a52f-439b15bc73c7"></a>
 <a href="https://github.com/IryDev/tinder-clone-template"><img width="300" alt="irydev tinder-clone tinder-website template" src="https://github.com/IryDev/IryDev/assets/86270481/4468833c-e167-4bd7-8639-ff26f7eac6ad"></a>
