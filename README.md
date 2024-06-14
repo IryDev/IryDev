@@ -57,6 +57,7 @@ Let's code something amazing together! 🚀
 <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" /></a>
         <a href="https://https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma" /></a>
         <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgresSQL" /></a>
+                <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
         <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
 </p>
                 
@@ -64,16 +65,16 @@ Let's code something amazing together! 🚀
 
 <p align="center"> 
         <img width="300" alt="irydev vegg'in bites vegetarian food home page" src="https://github.com/IryDev/IryDev/assets/86270481/ae727b6b-47d2-4c66-b90c-1f9570c89764">
-        <a href="https://github.com/IryDev/"><img width="300" alt="irydev harry potter" src="https://github.com/IryDev/IryDev/assets/86270481/99c811c8-357d-490e-a52f-439b15bc73c7"></a>
+        <a href="https://github.com/IryDev/"><img width="300" alt="irydev harry potter" src="https://github.com/IryDev/IryDev/assets/86270481/b0257a21-f165-4123-a61a-dd908c7d7961"></a>
 <a href="https://github.com/IryDev/tinder-clone-template"><img width="300" alt="irydev tinder-clone tinder-website template" src="https://github.com/IryDev/IryDev/assets/86270481/4468833c-e167-4bd7-8639-ff26f7eac6ad"></a>
         <img width="300" alt="irydev pespi pepsi-website" src="https://user-images.githubusercontent.com/86270481/230734550-e43dbc26-d2f8-437d-b804-d2f1c7bfb6e4.png">
 <a href="https://github.com/IryDev/netflix-squidgame"><img width="300" alt="squid game netflix irycode" src="https://user-images.githubusercontent.com/86270481/230734816-98b673f8-39a6-4a1a-a852-b2250f1fc167.png"></a> 
 <img width="300" alt="IryDev space-tourism frontendmentor" src="https://github.com/IryDev/IryDev/assets/86270481/6cd6e511-3f32-402c-a08c-b6a523181c41">
- 
+
 </p>
 
 <h2> <img src="https://user-images.githubusercontent.com/86270481/225367266-7a76485f-9e8a-4343-ab9f-672e1b254018.gif" width="30"> Stats</h2> 
 
-<p align="center" ><img width="31%" height="100%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=irydev&layout=donut-vertical&theme=jolly" alt="irydev" />
+<p align="center" ><img width="31%" height="100%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=irydev&hide_progress=true&theme=jolly" alt="irydev" />
 </p>
 
