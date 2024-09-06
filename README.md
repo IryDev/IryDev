@@ -44,11 +44,9 @@ Let's code something amazing together! 🚀
 <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/></a>
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/></a>
                 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextJS" /></a>
-                <a href="https://adonisjs.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/adonis%20js-220052?style=for-the-badge&logo=adonisjs&logoColor=white" alt="Adonis" /></a>
         <a href="https://reactnative.org/" target="_blank"><img src="https://img.shields.io/badge/-React_Native-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react-native" /></a>
 <a href="https://reactjs.org/" target="_blank">
                 <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" /></a>
-        <a href="https://svelte.dev/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=Svelte&logoColor=white" alt="SvelteJS"/></a>
         <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="VueJS"/></a>
         <a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
