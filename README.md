@@ -47,7 +47,6 @@ Let's code something amazing together! 🚀
         <a href="https://reactnative.org/" target="_blank"><img src="https://img.shields.io/badge/-React_Native-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react-native" /></a>
 <a href="https://reactjs.org/" target="_blank">
                 <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" /></a>
-        <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="VueJS"/></a>
         <a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass"/></a>
