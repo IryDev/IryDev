@@ -20,7 +20,7 @@ building projects with Next.js, React, Tailwind CSS, and Appwrite.
 of a career in Canada as a developer or even launching my own e-commerce business!
 
 ~$ ls skills/
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python,sass,tailwind,svelte,next,express,prisma,php,git,nodejs,docker,appwrite&theme=light" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,php,sass,tailwind,react,svelte,next,express,prisma,nodejs,appwrite,mysql,git,docker&theme=light" />
 
 ~$ cat featured_projects.txt
 1️⃣ 📱 Iphone 15 Pro Clone Page
