@@ -5,10 +5,12 @@
  | || '__| | | | | | |/ _ \ \ / / | |  _| | __| '_ \| | | | '_ \ 
  | || |  | |_| | |_| |  __/\ V /  | |_| | | |_| | | | |_| | |_) |
 |___|_|   \__, |____/ \___| \_/    \____|_|\__|_| |_|\__,_|_.__/ 
-          |___/                                                    
-        
-~$ cat about_me.txt
+          |___/   
 
+~$ cat quote.txt        
+Never let yesterday's failures define tomorrow's success
+ 
+~$ cat about_me.txt
 👋 Hello, world!
 I'm Iry, a passionate web developer and aspiring UX/UI designer.
 Currently exploring the realms of frontend & backend development, and
