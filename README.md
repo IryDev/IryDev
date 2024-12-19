@@ -23,8 +23,7 @@ of a career in Canada as a developer or even launching my own e-commerce busines
 
 ~$ cat featured_projects.txt
 1️⃣ 📱 <a target="_blank" rel=me href="https://apple-iphone-15-pro-website.vercel.app/">Iphone 15 Pro Clone Page</a>
-A playful app where users customize pedal cars, generate QR codes,
-and like their favorites. Powered by React, Redux, Three and Tailwind CSS.
+A replica of the web page of the Apple website for Iphone 15 Pro. Powered by React, Redux, Three and Tailwind CSS.
 
 2️⃣ 🐦 Twitter/X Clone
 A sleek, performant X replica built with Next.js, Appwrite
