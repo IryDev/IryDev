@@ -20,10 +20,10 @@ building projects with Next.js, React, Tailwind CSS, and Appwrite.
 of a career in Canada as a developer or even launching my own e-commerce business!
 
 ~$ ls skills/
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,php,sass,tailwind,react,svelte,next,express,prisma,nodejs,appwrite,mysql,git,docker&theme=light" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,php,sass,tailwind,react,svelte,next,express,prisma,nodejs,appwrite,mysql,git,docker&theme=light&perline=9" />
 
 ~$ cat featured_projects.txt
-1️⃣ <a rel=me href="https://apple-iphone-15-pro-website.vercel.app/">📱 Iphone 15 Pro Clone Page</a>
+1️⃣ 📱 <a target="_blank" rel=me href="https://apple-iphone-15-pro-website.vercel.app/">Iphone 15 Pro Clone Page</a>
 A playful app where users customize pedal cars, generate QR codes,
 and like their favorites. Powered by React, Redux, Three and Tailwind CSS.
 
@@ -35,14 +35,14 @@ featuring authentication and a dynamic feed.
 Simplified photo-sharing platform using PHP and MVC pattern.
 
 ~$ cat portfolio_links.txt
-📂 Portfolio: <a rel=me href="https://rey-kosso.com">rey-kosso.com</a>
-🔗 LinkedIn: <a rel=me href="https://www.linkedin.com/in/rey-kosso/">rey kosso</a>
-✉️ Email : <a rel=me href="mailto:ryvernet@outlook.fr">rey kosso</a>
+📂 Portfolio: <a target="_blank" rel=me href="https://rey-kosso.com">rey-kosso.com</a>
+🔗 LinkedIn: <a target="_blank" rel=me href="https://www.linkedin.com/in/rey-kosso/">rey kosso</a>
+✉️ Email : <a target="_blank" rel=me href="mailto:ryvernet@outlook.fr">rey kosso</a>
 
 ~$ neofetch
 🎨 Preferred Color: Violet shades
 💻 Current Device: Mac
-🎮 Fun Fact: ...
+🎮 Favorite Game: Red Dead Redemption 2
 🌸 Passion Project: A Sakura-themed Notion template 🌸
 
 ~$ exit
