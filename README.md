@@ -23,7 +23,7 @@ of a career in Canada as a developer or even launching my own e-commerce busines
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,php,sass,tailwind,react,svelte,next,express,prisma,nodejs,appwrite,mysql,git,docker&theme=light" />
 
 ~$ cat featured_projects.txt
-1️⃣ 📱 Iphone 15 Pro Clone Page
+1️⃣ <a rel=me href="https://apple-iphone-15-pro-website.vercel.app/">📱 Iphone 15 Pro Clone Page</a>
 A playful app where users customize pedal cars, generate QR codes,
 and like their favorites. Powered by React, Redux, Three and Tailwind CSS.
 
