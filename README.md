@@ -44,6 +44,7 @@ Simplified photo-sharing platform using PHP and MVC pattern.
 ✉️ Email : <a target="_blank" rel=me href="mailto:ryvernet@outlook.fr">rey kosso</a>
 
 ~$ neofetch
+ --
 🎨 Preferred Color: Violet shades
 💻 Current Device: Mac
 🎮 Favorite Game: Red Dead Redemption 2
