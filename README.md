@@ -14,12 +14,9 @@ Never let yesterday's failures define tomorrow's success
 ~$ cat about_me.txt
  --
 👋 Hello, world!
-I'm Iry, a passionate web developer and aspiring UX/UI designer.
-Currently exploring the realms of frontend & backend development, and
-building projects with Next.js, React, Tailwind CSS, and Appwrite.
-
-🌟 My goal? To craft performant and user-centric experiences, while dreaming
-of a career in Canada as a developer or even launching my own e-commerce business!
+I'm Iry, a passionate web developer.
+Currently exploring the realms of frontend, backend & mobile development, and
+building projects with modern technologies.
 
 ~$ ls skills/
  <img src="https://skills-icons.vercel.app/api/icons?i=html,css,sass,tailwind,js,ts,react,reactnative,nextjs,zustand,nodejs,express,python,fastapi,prisma,appwrite,supabase,postgres,mysql,git,docker&theme=light&perline=10" />
