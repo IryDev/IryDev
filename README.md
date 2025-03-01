@@ -19,6 +19,7 @@ Currently exploring the realms of frontend, backend & mobile development, and
 building projects with modern technologies.
 
 ~$ ls skills/
+ --
  <img src="https://skills-icons.vercel.app/api/icons?i=html,css,sass,tailwind,js,ts,react,reactnative,nextjs,zustand,nodejs,express,python,fastapi,prisma,appwrite,supabase,postgres,mysql,git,docker&theme=light&perline=10" />
 
 
