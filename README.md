@@ -20,17 +20,17 @@ building projects with modern technologies.
 
 ~$ ls skills/
  --
- <img src="https://skills-icons.vercel.app/api/icons?i=html,css,sass,tailwind,js,ts,react,reactnative,nextjs,zustand,nodejs,express,python,fastapi,prisma,appwrite,supabase,postgres,mysql,git,docker&theme=light&perline=10" />
+ <img src="https://skills-icons.vercel.app/api/icons?i=html,css,sass,tailwind,js,ts,react,reactnative,nextjs,zustand,nodejs,express,python,fastapi,prisma,appwrite,mongo,mysql,git,docker&theme=light&perline=10" />
 
 
 ~$ cat featured_projects.txt
  --
-1️⃣ 📱 <a target="_blank" rel=me href="https://apple-iphone-15-pro-website.vercel.app/">Iphone 15 Pro Clone Page</a>
-A replica of the web page of the Apple website for Iphone 15 Pro. Powered by React, Redux, Three and Tailwind CSS.
+ 
+1️⃣ 🎨 <a target="_blank" rel=me href="https://nastaciastudio.vercel.app/">Nastacia Studio</a>
+A Stunning Portfolio Realised with NextjS TailwindCSS and GSAP
 
-2️⃣ 🐦 Twitter/X Clone
-A sleek, performant X replica built with Next.js, Appwrite
-featuring authentication and a dynamic feed.
+2️⃣ 📱 <a target="_blank" rel=me href="https://apple-iphone-15-pro-website.vercel.app/">Iphone 15 Pro Clone Page</a>
+A replica of the web page of the Apple website for Iphone 15 Pro. Powered by React, Redux, Three and Tailwind CSS.
 
 3️⃣ 📷 Unsplash Mini Clone
 Simplified photo-sharing platform using PHP and MVC pattern.
