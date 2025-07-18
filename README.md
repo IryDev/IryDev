@@ -48,16 +48,5 @@ Simplified photo-sharing platform using PHP and MVC pattern.
 🌸 Passion Project: Learn about psychology
 
 ~$ exit
- --
-
- <pre>
- _____      _ _    ____  
-| ____|_  _(_) |_ / /\ \ 
-|  _| \ \/ / | __| |  | |
-| |___ >  <| | |_| |  | |
-|_____/_/\_\_|\__| |  | |
-                  \_\/_/ 
-</pre>
-
 </pre>
 
