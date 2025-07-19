@@ -13,9 +13,7 @@ Never let yesterday's failures define tomorrow's success
 ~$ cat about_me.txt
  --
 👋 Hello, world!
-I'm Iry, a passionate web developer.
-Currently exploring the realms of frontend, backend & mobile development, and
-building projects with modern technologies.
+I'm Iry, a fullstack software engineer.
 
 ~$ ls skills/
  --
