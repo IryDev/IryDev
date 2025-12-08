@@ -17,7 +17,7 @@ I'm Iry, a fullstack software engineer.
 
 ~$ ls skills/
  --
- <img src="https://skills-icons.vercel.app/api/icons?i=html,css,sass,tailwind,js,ts,react,reactnative,nextjs,zustand,reactquery,nodejs,express,nestjs,python,fastapi,prisma,drizzle,appwrite,mongo,mysql,git,docker&theme=light&perline=10" />
+ <img src="https://skills-icons.vercel.app/api/icons?i=html,css,sass,tailwind,js,ts,python,react,reactnative,nextjs,zustand,reactquery,nodejs,express,nestjs,laravel,fastapi,prisma,drizzle,appwrite,mongo,mysql,git,docker&theme=light&perline=10" />
 
 ~$ cat portfolio_links.txt
  --
