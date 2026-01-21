@@ -19,11 +19,6 @@ I'm Iry, a fullstack software engineer.
  --
  <img src="https://skills-icons.vercel.app/api/icons?i=html,css,sass,tailwind,js,ts,python,react,reactnative,nextjs,zustand,reactquery,nodejs,express,nestjs,laravel,fastapi,prisma,drizzle,appwrite,mongo,mysql,git,docker&theme=light&perline=10" />
 
-~$ cat portfolio_links.txt
- --
-📂 Portfolio: <a target="_blank" rel=me href="https://rey-kosso.com">rey-kosso.com</a>
-🔗 LinkedIn: <a target="_blank" rel=me href="https://www.linkedin.com/in/rey-kosso/">rey kosso</a>
-
 ~$ neofetch
  --
 🎨 Preferred Color: Violet shades
